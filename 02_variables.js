@@ -1,4 +1,4 @@
-let nummer = 200;
+let nummer = 300;
 let teilnehmer = 5;
 let institution = "ZDI";
 const konstante = 1000;
